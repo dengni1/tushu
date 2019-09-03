@@ -195,3 +195,9 @@ C:\Users\肖飞\Desktop\propject\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.SplitDetail
 C:\Users\肖飞\Desktop\propject\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.SplitIcmo.resources
 C:\Users\肖飞\Desktop\propject\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.Properties.Resources.resources
 C:\Users\肖飞\Desktop\propject\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.csproj.GenerateResource.Cache
+C:\Users\肖飞\Desktop\yu\OcdIcmoSplit\bin\Debug\OcdIcmoSplit.exe.config
+C:\Users\肖飞\Desktop\yu\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.exe
+C:\Users\肖飞\Desktop\yu\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.pdb
+G:\yu\OcdIcmoSplit\bin\Debug\OcdIcmoSplit.exe.config
+G:\yu\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.exe
+G:\yu\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.pdb
